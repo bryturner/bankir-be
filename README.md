@@ -1,21 +1,18 @@
 # BankIR Simulated Banking Back-end
 
-## Features
+Users can register and log in with personal accounts. They can practice making transactions, transfers and earning interest for educational purposes. To view the front-end code used for this project, click [here](https://github.com/bryturner/bankir-fe).
 
-## Motivation
+![bankir account view mock](./github-images/bankir-acct-mock.png)
 
 ## Technologies
 
-- React
 - JavaScript
 - MongoDB
 - Node.js
-- React-testing-library
-- Jest
-- Styled-components
-- CSS
+- Async/await
+- RESTful API
 
-## More About the Project
+![bankir account view mock](./github-images/bankir-reg-mock.png)
 
 ## Possible Features
 
